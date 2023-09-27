@@ -5,10 +5,10 @@
 ## Task 9. Install the required frameworks and dependencies
 
 1. In a VS code terminal, clone this repo and change directories.
+<!---->
+    git clone https://github.com/smartcontractkit/functions-google-vertex-ai.git && \cd functions-google-vertex-ai/
 
-   git clone https://github.com/smartcontractkit/functions-google-vertex-ai.git && \cd functions-google-vertex-ai/
-
-2. [Install Node.js 18](https://nodejs.org/en/download/) . Optionally, you can use the [nvm package](https://www.npmjs.com/package/nvm) to switch between Node.js versions with \`nvm use 18\`.
+3. [Install Node.js 18](https://nodejs.org/en/download/) . Optionally, you can use the [nvm package](https://www.npmjs.com/package/nvm) to switch between Node.js versions with \`nvm use 18\`.
 
 \*\*Note\*\*: To ensure you are running the correct version in a terminal, run:
 
