@@ -145,8 +145,6 @@ After you configure your local environment, configure some on-chain resources to
 
 The script runs your function in a sandbox environment before making an on-chain transaction:
 
-          node .examples/POST-data/request.js
-
     Start simulation...
 
     Simulation result {
@@ -195,7 +193,7 @@ tokenUrl:  **https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0.json**
 
 6\. At the end of this JSON metadata will be your NFT:
 
-image: "**https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0_img.png**"
+image: **https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0_img.png**
 
 - Open this URL to see your NFT!
 
@@ -223,6 +221,6 @@ Token metadata: **https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0.json**
 
 4\. At the end of this JSON metadata will be your updated NFT:
 
-image: "**https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0_img.png**"
+image: **https\://storage.cloud.google.com/\<YOUR_BUCKET_NAME>/0_img.png**
 
 - Open this URL to see your NFT updated with a new seed!
